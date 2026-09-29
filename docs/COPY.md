@@ -1,6 +1,6 @@
 # COPY de ingridastiz.com (Design Specs + Copy)
 
-Versión 2, 29/09/2026 (cambios pedidos por Ingrid tras la primera publicación). Redactado por Claude a partir de `fuente-linkedin-2026-09-29.md`.
+Versión 3, 29/09/2026 (cambios pedidos por Ingrid tras la primera publicación). Redactado por Claude a partir de `fuente-linkedin-2026-09-29.md`.
 Todo dato (fechas, empresas, cargos, títulos) sale de LinkedIn. Las frases marcadas
 con [NUEVO] son redacción creativa que no está en ninguna fuente: revisar con más cuidado.
 
@@ -128,22 +128,7 @@ Línea de tiempo, de hoy hacia atrás.
 | 2010 | Fundación de Fuerza Tres en Buenos Aires: agilidad más inteligencia emocional | Founding of Fuerza Tres in Buenos Aires: agility plus emotional intelligence |
 | Antes de 2010 | Grupo OSDE, doce años: desarrolladora de software, tech leader y project manager | Grupo OSDE, twelve years: software developer, tech leader and project manager |
 
-**Con quién trabajé / Who I have worked with**
-
-**ES:** Consejos, directivos y equipos de tecnología en LIFULL Connect, Théa Pharma, Voxel, Taringa, DAVID Systems y Prosegur Cash. Talleres para Ayuntamiento de Barcelona, Médicos Sin Fronteras, Banc Sabadell, Vodafone, Oxfam Intermón y Endesa. Colaboración con CaixaBank y BBVA. En Latinoamérica: DOW, EPM, Sura, Grupo Carvajal, Belcorp, Arcor, La Nación, Banco Galicia y Gobierno de la Ciudad de Buenos Aires, entre otras. Proyectos con proveedores como HP, IBM y Accenture.
-**EN:** Boards, executives and technology teams at LIFULL Connect, Théa Pharma, Voxel, Taringa, DAVID Systems and Prosegur Cash. Workshops for Barcelona City Council, Médecins Sans Frontières, Banc Sabadell, Vodafone, Oxfam Intermón and Endesa. Collaboration with CaixaBank and BBVA. In Latin America: DOW, EPM, Sura, Grupo Carvajal, Belcorp, Arcor, La Nación, Banco Galicia and the Buenos Aires City Government, among others. Projects with vendors such as HP, IBM and Accenture.
-
-**Testimonios / Testimonials** (recomendaciones públicas en LinkedIn; confirmar que Ingrid quiere usarlas)
-
-> "Ingrid ha demostrado la capacidad de crear en sus sesiones un espacio de empatía y confianza, con calidez y entendimiento. Destacaron la integridad, la profundidad, la sensibilidad, el ser directa y transparente, expresar ideas con claridad, saber avanzar de forma muy enfocada, comprometida y disciplinada."
-> Fred Kofman, autor de Metamanagement y presidente de Conscious Business Center International
-
-EN: "Ingrid has shown the ability to create a space of empathy and trust in her sessions, with warmth and understanding. What stood out was her integrity, depth, sensitivity, being direct and transparent, expressing ideas clearly, and knowing how to move forward in a very focused, committed and disciplined way."
-
-> "Quiero destacar la combinación de su experiencia práctica, su conocimiento sobre las dinámicas de grupos y organizaciones y sabiduría vital. Un lujo."
-> Ramón Vallescar, responsable de Formación y Desarrollo en Oxfam Intermón
-
-EN: "I want to highlight the combination of her practical experience, her knowledge of group and organisational dynamics, and her life wisdom. A privilege."
+(Bloques "Con quién trabajé" y "Testimonios" eliminados en la versión 3. Ingrid va a pedir recomendaciones nuevas, específicas para consejos, antes de volver a incluir testimonios.)
 
 ---
 
