@@ -6,7 +6,7 @@ está en el repositorio.
 
 - Producción: https://ingridastiz.com
 - Hosting: Netlify, publica automáticamente cada push a la rama `main`
-- Dominio: registrado en Porkbun, apuntado a Netlify
+- Dominio: registrado en Porkbun, apuntado a Netlify (ver "DNS" más abajo)
 
 ## Estructura
 
@@ -58,6 +58,23 @@ Netlify publica automáticamente cada push a la rama `main`. No hay paso de buil
 
 Para revertir, hacer un commit nuevo o restaurar un deploy anterior desde el panel
 de Netlify.
+
+## DNS (Porkbun)
+
+El dominio se gestiona en Porkbun con los nameservers de Porkbun. Para que apunte al
+sitio en Netlify hacen falta estos registros, y nada más para el sitio web:
+
+| Tipo  | Host | Valor                      |
+|-------|------|----------------------------|
+| A     | @    | 75.2.60.5                  |
+| CNAME | www  | ingridastiz.netlify.app    |
+
+Además hay que borrar cualquier "URL forwarding" (reenvío) que Porkbun tenga
+configurado para el dominio, porque compite con los registros anteriores. Netlify
+emite el certificado HTTPS solo cuando ve que el dominio apunta a sus servidores;
+puede tardar desde minutos hasta unas horas por la propagación de DNS.
+
+En Netlify el dominio ya está cargado como dominio principal, con www redirigiendo.
 
 ## De dónde salen los textos
 
