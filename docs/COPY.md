@@ -1,6 +1,6 @@
 # COPY de ingridastiz.com (Design Specs + Copy)
 
-Versión 1, 29/09/2026. Redactado por Claude a partir de `fuente-linkedin-2026-09-29.md`.
+Versión 2, 29/09/2026 (cambios pedidos por Ingrid tras la primera publicación). Redactado por Claude a partir de `fuente-linkedin-2026-09-29.md`.
 Todo dato (fechas, empresas, cargos, títulos) sale de LinkedIn. Las frases marcadas
 con [NUEVO] son redacción creativa que no está en ninguna fuente: revisar con más cuidado.
 
@@ -43,11 +43,11 @@ Marca: **Ingrid Astiz** (con punto en color de acento, como "Ingrid." en ingrid.
 **Eyebrow ES:** Consejera independiente · Board Member y Advisory Board
 **Eyebrow EN:** Independent board member · Board and advisory roles
 
-**H1 ES [NUEVO]:** Una mirada independiente en el consejo: tecnología, personas y decisiones difíciles.
-**H1 EN [NUEVO]:** An independent voice in the boardroom: technology, people and hard decisions.
+**H1 ES [NUEVO]:** Una mirada independiente en el consejo: innovación, personas y decisiones difíciles.
+**H1 EN [NUEVO]:** An independent voice in the boardroom: innovation, people and hard decisions.
 
-**Lead ES [NUEVO]:** Soy Ingrid Astiz. Doce años en tecnología, dieciséis en transformación organizacional, y formación en directorios en la Universidad de San Andrés. Me sumo a consejos de pymes y empresas familiares que quieren atravesar la era de la IA con criterio y sin perder lo humano.
-**Lead EN [NUEVO]:** I'm Ingrid Astiz. Twelve years in technology, sixteen in organisational transformation, and board training at Universidad de San Andrés. I join the boards of SMEs and family businesses that want to navigate the age of AI with good judgement and without losing what is human.
+**Lead ES [NUEVO]:** Soy Ingrid Astiz. Formación en Filosofía en la Universidad de Buenos Aires y en Consejos Directivos en la Universidad de San Andrés. Experiencia internacional en consejos familiares, pymes de base tecnológica, transformación organizacional, adopción de nuevas tecnologías y metodologías (ahora con la IA).
+**Lead EN [NUEVO]:** I'm Ingrid Astiz. Trained in Philosophy at the University of Buenos Aires and in Boards of Directors at Universidad de San Andrés. International experience on family boards and with technology-based SMEs, organisational transformation, and the adoption of new technologies and methodologies (now with AI).
 
 **Botón 1:** Hablemos en LinkedIn / Let's talk on LinkedIn → https://www.linkedin.com/in/ingridastiz/
 **Botón 2:** hola@ingrid.ar → mailto:hola@ingrid.ar
@@ -57,14 +57,14 @@ Marca: **Ingrid Astiz** (con punto en color de acento, como "Ingrid." en ingrid.
 ## PARA QUIÉN / WHO THIS IS FOR
 
 **ES [NUEVO]:**
-Consejos de administración y consejos asesores de pymes y empresas familiares, en España y en Latinoamérica.
+Consejos de administración y consejos asesores de pymes y empresas familiares, en Argentina y España.
 
-Empresas que están profesionalizando su gobierno, preparando una sucesión, o decidiendo qué hacer con la tecnología y la inteligencia artificial, y que no tienen en la mesa a nadie que las entienda desde adentro.
+Empresas que están profesionalizando su gobierno y su gestión, preparando una sucesión, o decidiendo qué hacer con la inteligencia artificial.
 
 **EN [NUEVO]:**
-Boards of directors and advisory boards of SMEs and family businesses, in Spain and Latin America.
+Boards of directors and advisory boards of SMEs and family businesses, in Argentina and Spain.
 
-Companies that are professionalising their governance, preparing a succession, or deciding what to do about technology and artificial intelligence, and that have no one at the table who understands these from the inside.
+Companies that are professionalising their governance and management, preparing a succession, or deciding what to do about artificial intelligence.
 
 ---
 
@@ -79,8 +79,8 @@ Cinco bloques. Título corto y dos o tres frases.
 
 ### 2. Tecnología / Technology
 
-**ES:** Doce años como desarrolladora de software, tech leader y project manager en Grupo OSDE. [NUEVO] Sé leer un roadmap, un presupuesto de IT y una propuesta de proveedor, y sé qué preguntas hacer cuando algo no cierra.
-**EN:** Twelve years as a software developer, tech leader and project manager at Grupo OSDE. [NUEVO] I can read a roadmap, an IT budget and a vendor proposal, and I know which questions to ask when something doesn't add up.
+**ES:** Décadas trabajando en desarrollo de software y pymes de base tecnológica: sé entender los planes estratégicos y qué preguntas hacer cuando algo no cierra.
+**EN:** Decades working in software development and technology-based SMEs: I understand strategic plans and know which questions to ask when something doesn't add up.
 
 ### 3. Agilidad y transformación / Agility and transformation
 
@@ -94,13 +94,10 @@ Cinco bloques. Título corto y dos o tres frases.
 
 ### 5. Ahora, transformación con IA / Now, AI transformation
 
-**ES:** Trabajo a diario con agentes de IA en mis proyectos y con clientes. Formación en estrategia organizacional con IA generativa y agentes (Vanderbilt University, 2026). [NUEVO] Ayudo a los consejos a separar el ruido de lo que importa: qué adoptar, qué riesgos gestionar y qué no delegar.
-**EN:** I work daily with AI agents on my own projects and with clients. Training in organisational strategy with generative AI and AI agents (Vanderbilt University, 2026). [NUEVO] I help boards separate the noise from what matters: what to adopt, which risks to manage, and what not to delegate.
+**ES:** Trabajo a diario con agentes de IA en mis proyectos y con clientes. Ayudo a los consejos a separar el ruido de lo que importa: qué adoptar, qué riesgos gestionar y qué no delegar.
+**EN:** I work daily with AI agents on my own projects and with clients. I help boards separate the noise from what matters: what to adopt, which risks to manage, and what not to delegate.
 
-### Cómo trabajo en un consejo / How I work on a board
-
-**ES:** Creo en las corazonadas y también en el Excel. [NUEVO] Hago preguntas incómodas con amabilidad. No vendo frameworks: aporto criterio, experiencia y una red de personas en tecnología, agilidad y gobernanza en dos continentes.
-**EN:** I believe in hunches, and also in spreadsheets. [NUEVO] I ask uncomfortable questions kindly. I don't sell frameworks: I bring judgement, experience and a network of people in technology, agility and governance on two continents.
+(Sección "Cómo trabajo en un consejo" eliminada en la versión 2.)
 
 ---
 
