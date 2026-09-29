@@ -19,6 +19,7 @@ styles.css                 Todos los estilos del sitio
 script.js                  Cambio de idioma persistente
 assets/ingrid.jpg          Retrato (foto de Xavi Cervera)
 assets/og.jpg              Imagen de previsualización para redes (1200x630)
+docs/og-source.webp        Imagen original (ChatGPT, 1536x1024) de la que sale og.jpg
 netlify.toml               Configuración de publicación y cabeceras
 docs/COPY.md               Especificaciones de diseño y textos aprobados (DECO)
 docs/fuente-linkedin-*.md  Datos extraídos del perfil de LinkedIn, fuente del copy
@@ -84,7 +85,7 @@ propio fuera del repositorio, manda ese documento: el HTML se corrige a partir d
 
 ## Regenerar la imagen para redes
 
-`assets/og.jpg` se genera con Python y Pillow a partir del retrato:
+`assets/og.jpg` se genera con Python y Pillow recortando `docs/og-source.webp`:
 
 ```
 python3 docs/make-og.py
