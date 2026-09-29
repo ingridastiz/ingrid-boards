@@ -1,6 +1,6 @@
 # COPY de ingridastiz.com (Design Specs + Copy)
 
-Versión 3, 29/09/2026 (cambios pedidos por Ingrid tras la primera publicación). Redactado por Claude a partir de `fuente-linkedin-2026-09-29.md`.
+Versión 4, 29/09/2026 (cambios pedidos por Ingrid tras la primera publicación). Redactado por Claude a partir de `fuente-linkedin-2026-09-29.md`.
 Todo dato (fechas, empresas, cargos, títulos) sale de LinkedIn. Las frases marcadas
 con [NUEVO] son redacción creativa que no está en ninguna fuente: revisar con más cuidado.
 
@@ -39,7 +39,7 @@ Marca: **Ingrid Astiz** (con punto en color de acento, como "Ingrid." en ingrid.
 
 ## HERO
 
-**Eyebrow ES:** Consejera independiente · Board Member y Advisory Board
+**Eyebrow ES:** Consejera independiente · Consejos de administración y consejos asesores
 **Eyebrow EN:** Independent board member · Board and advisory roles
 
 **H1 ES [NUEVO]:** Una mirada independiente en el consejo: innovación, personas y decisiones difíciles.
@@ -109,7 +109,7 @@ Cinco bloques. Título corto y dos o tres frases.
 |---|---|---|---|
 | Barcelona Montessori School | Miembro del consejo asesor | Advisory Board Member | Desde octubre 2025 / Since October 2025 |
 | Grupo Oxean, agencia de comunicación interna y externa | Consejera (Board Advisor). Antes, Chief Innovation Officer (2020-2023) | Board Advisor. Previously Chief Innovation Officer (2020-2023) | Desde octubre 2025 / Since October 2025 |
-| INICIA, comunidad de emprendedores, Buenos Aires | Miembro del Board of Directors (2016-2017). Mentora y voluntaria (2010-2017). Voluntaria del año 2012 | Board of Directors member (2016-2017). Mentor and volunteer (2010-2017). Volunteer of the Year 2012 | 2016-2017 |
+| INICIA, comunidad de emprendedores, Buenos Aires | Miembro del Consejo de Administración (2016-2017). Mentora y voluntaria (2010-2017). Voluntaria del año 2012 | Board of Directors member (2016-2017). Mentor and volunteer (2010-2017). Volunteer of the Year 2012 | 2016-2017 |
 
 ---
 
@@ -185,3 +185,7 @@ Se adaptan los tres textos de ingrid.ar (aviso legal, privacidad, cookies), con 
 - Se quita WhatsApp de las menciones a plataformas de terceros; queda LinkedIn.
 - Mail de privacidad: privacidad@ingrid.ar (ya existe con el comodín de ImprovMX).
 - Titular: Ingrid Isabel Astiz. Residencia: España.
+
+## Regla de idioma (v4)
+
+La versión en castellano no mezcla inglés: solo quedan nombres propios de instituciones y eventos (Barcelona Montessori School, EADA Business School, Vistage Spain). La imagen para redes y el título de la pestaña están en castellano porque el sitio arranca en castellano.

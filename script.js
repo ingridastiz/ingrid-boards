@@ -2,7 +2,7 @@
 (function () {
   var KEY = "ingridastiz-lang";
   var TITLES = {
-    es: "Ingrid Astiz · Board Member y Consejera independiente",
+    es: "Ingrid Astiz · Consejera independiente",
     en: "Ingrid Astiz · Independent Board Member"
   };
   function apply(lang) {

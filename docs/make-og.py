@@ -21,9 +21,9 @@ def font(name, size):
 f1, f2, f3 = font("Georgia.ttf", 64), font("Georgia.ttf", 30), font("Helvetica.ttc", 22)
 x = 70
 d.text((x, 150), "Ingrid Astiz", font=f1, fill=(255, 255, 255))
-d.text((x, 235), "Board Member", font=f2, fill=(241, 176, 138))
-d.text((x, 275), "y Consejera independiente", font=f2, fill=(241, 176, 138))
-d.text((x, 360), "Tecnología, personas y", font=f3, fill=(220, 226, 235))
+d.text((x, 235), "Consejera independiente", font=f2, fill=(241, 176, 138))
+d.text((x, 275), "para consejos de administración", font=f2, fill=(241, 176, 138))
+d.text((x, 360), "Innovación, personas y", font=f3, fill=(220, 226, 235))
 d.text((x, 392), "decisiones difíciles.", font=f3, fill=(220, 226, 235))
 d.text((x, 540), "ingridastiz.com", font=f3, fill=(155, 180, 210))
 im.save("assets/og.jpg", quality=88)
