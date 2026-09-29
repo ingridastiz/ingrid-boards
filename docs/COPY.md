@@ -200,8 +200,8 @@ Enlaces: Dinero y Libertad → https://www.amazon.es/dp/B0FQ64JMR7 · Poder Crea
 **H2 ES [NUEVO]:** ¿Tu consejo necesita otra mirada?
 **H2 EN [NUEVO]:** Does your board need another perspective?
 
-**ES [NUEVO]:** Escribime y conversamos sin compromiso. Vivo en Barcelona y trabajo con consejos en España y Latinoamérica, en presencial y a distancia.
-**EN [NUEVO]:** Write to me and we'll talk, no strings attached. I live in Barcelona and work with boards in Spain and Latin America, in person and remotely.
+**ES [NUEVO]:** Escribime y conversamos sin compromiso. Vivo en Barcelona y trabajo con consejos en Argentina y España, en presencial y a distancia.
+**EN [NUEVO]:** Write to me and we'll talk, no strings attached. I live in Barcelona and work with boards in Argentina and Spain, in person and remotely.
 
 Botones: LinkedIn · hola@ingrid.ar
 
