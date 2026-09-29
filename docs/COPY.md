@@ -39,11 +39,10 @@ Marca: **Ingrid Astiz** (con punto en color de acento, como "Ingrid." en ingrid.
 
 ## HERO
 
-**Eyebrow ES:** Consejera independiente · Consejos de administración y consejos asesores
-**Eyebrow EN:** Independent board member · Board and advisory roles
+**Eyebrow:** eliminado en la versión 5 (el hero arranca directo con el título).
 
 **H1 ES [NUEVO]:** Una mirada independiente en el consejo: innovación, personas y decisiones difíciles.
-**H1 EN [NUEVO]:** An independent voice in the boardroom: innovation, people and hard decisions.
+**H1 EN [NUEVO]:** An independent voice in the board: innovation, people and hard decisions.
 
 **Lead ES [NUEVO]:** Soy Ingrid Astiz. Formación en Filosofía en la Universidad de Buenos Aires y en Consejos Directivos en la Universidad de San Andrés. Experiencia internacional en consejos familiares, pymes de base tecnológica, transformación organizacional, adopción de nuevas tecnologías y metodologías (ahora con la IA).
 **Lead EN [NUEVO]:** I'm Ingrid Astiz. Trained in Philosophy at the University of Buenos Aires and in Boards of Directors at Universidad de San Andrés. International experience on family boards and with technology-based SMEs, organisational transformation, and the adoption of new technologies and methodologies (now with AI).
