@@ -1,0 +1,37 @@
+MIT No Attribution
+
+Copyright 2026 Ingrid Astiz
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this
+software and associated documentation files (the "Software"), to deal in the Software
+without restriction, including without limitation the rights to use, copy, modify,
+merge, publish, distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF
+CONTRACT, TORT OR OTHERWISE, ARISING FROM OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+ALCANCE DE ESTA LICENCIA / SCOPE OF THIS LICENSE
+
+La licencia MIT-0 de arriba cubre unicamente el codigo: la estructura HTML, las hojas
+de estilo, el JavaScript y la configuracion de despliegue. Podes copiarlos, modificarlos
+y usarlos sin pedir permiso y sin atribuir.
+
+NO estan cubiertos por esta licencia:
+
+- Los textos y contenidos editoriales del sitio.
+- Las imagenes de assets/, incluida la fotografia de Ingrid, cuyo autor es Xavi Cervera.
+- El nombre "Ingrid.", el dominio ingrid.ar y cualquier elemento de identidad de marca.
+
+Todos los derechos sobre esos elementos quedan reservados. Si reutilizas el codigo,
+reemplaza los textos y las imagenes por los tuyos.
+
+The MIT-0 license above covers the code only: HTML structure, stylesheets, JavaScript
+and deployment configuration. Texts, images (including the photograph of Ingrid, by
+Xavi Cervera) and brand identity are not covered and all rights are reserved.

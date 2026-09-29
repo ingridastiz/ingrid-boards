@@ -1,0 +1,30 @@
+# Sitio estático sin build: se publica la raíz del repositorio tal cual.
+[build]
+  publish = "."
+  command = ""
+
+# URLs sin extensión (/privacidad -> privacidad.html)
+[[redirects]]
+  from = "/aviso-legal"
+  to = "/aviso-legal.html"
+  status = 200
+[[redirects]]
+  from = "/privacidad"
+  to = "/privacidad.html"
+  status = 200
+[[redirects]]
+  from = "/cookies"
+  to = "/cookies.html"
+  status = 200
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    X-Frame-Options = "DENY"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
