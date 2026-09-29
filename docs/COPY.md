@@ -32,7 +32,6 @@ Marca: **Ingrid Astiz** (con punto en color de acento, como "Ingrid." en ingrid.
 | Qué aporto | What I bring |
 | Consejos | Boards |
 | Trayectoria | Track record |
-| Formación | Education |
 | Publicaciones | Publications |
 | Contacto | Contact |
 
@@ -134,27 +133,7 @@ Línea de tiempo, de hoy hacia atrás.
 
 ## FORMACIÓN / EDUCATION
 
-**ES:**
-- Construir Valor en Directorios, Universidad de San Andrés, 2026.
-- Filosofía, Universidad de Buenos Aires, en curso.
-- Innova Institut, Barcelona: Gobernanza en la organización madura (2026); Capacidades políticas en las organizaciones (2025); LIP, Liderazgo, Innovación y Poder (2024 y 2025); Supervisión para consultores en desarrollo organizativo (2024-2026).
-- Organizational Strategy with Generative AI and AI Agents, Vanderbilt University, 2026.
-- Conscious Business Coach, Conscious Business Center International, 2020.
-- MBA en Social Business, The Social Circle, 2020-2022.
-- ICAgile Certified Professional, Agility in HR, 2021. Management 3.0, 2018. Certified Scrum Master, 2009.
-- Agente de Igualdad (planes de igualdad en empresas), 2024.
-- Idiomas: castellano e italiano nativos, inglés profesional, catalán básico.
-
-**EN:**
-- Building Value in Boards, Universidad de San Andrés, 2026.
-- Philosophy, University of Buenos Aires, in progress.
-- Innova Institut, Barcelona: Governance in the mature organisation (2026); Political capabilities in organisations (2025); LIP, Leadership, Innovation and Power (2024 and 2025); Supervision for consultants in organisational development (2024-2026).
-- Organizational Strategy with Generative AI and AI Agents, Vanderbilt University, 2026.
-- Conscious Business Coach, Conscious Business Center International, 2020.
-- MBA in Social Business, The Social Circle, 2020-2022.
-- ICAgile Certified Professional, Agility in HR, 2021. Management 3.0, 2018. Certified Scrum Master, 2009.
-- Equality Agent (equality plans in companies, Spain), 2024.
-- Languages: native Spanish and Italian, professional English, basic Catalan.
+(Sección eliminada en la versión 3 a pedido de Ingrid. También se quitó "Formación" del menú.)
 
 ---
 
